@@ -1,4 +1,4 @@
-# Statistical-Analysis
+# tatistical Analysis and Engineering Acoustics
 
 by the Department of Engineering Acoustics.
 
