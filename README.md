@@ -6,18 +6,18 @@ Technische Akustik.</a></h5> </td>
   <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="https://www.akustik.tu-berlin.de/fileadmin/_processed_/5/51/csm_Stirnwand_87c8439a90.jpg"/></td>
 </tr>
 <tr border=0>
-<td> </td><td  align="center"> <h5> Project Topic </h5> </td><td> </td>
+<td> </td><td  align="center"> <h5>Topic</h5> </td><td> </td>
 </tr>
 <tr border=0>
 <td> </td><td> </td><td> </td>
 </tr>
   <tr>
     <td> </td>
-<td align="center"><h5><a href="https://github.com/fraunhoferfokus">"Video Streaming Mixer Library"</a></h5></td>
+<td align="center"><h5><a href="https://www.akustik.tu-berlin.de/menue/home/">"Statistical-Analysis"</a></h5></td>
     <td> </td>
 </tr>
   <tr>
-    <td> </td>  <td align="center"><a href='https://www.linkedin.com/in/alexander-futasz/'> Ph.D. Student Eng. Alexander Futász</a></td>
+    <td> </td>  <td ></td>
     <td> </td>
 </tr>
 </table>
