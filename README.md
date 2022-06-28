@@ -1,8 +1,9 @@
 <table border=0>
 <tr border=0>
 <td> <img align="left"  alt="Mohamed Mesto" width="100px" height='60px' src="https://www.ods.tu-berlin.de/fileadmin/Aperto_design/img/logo_01.gif"/> </td>
-  <td align="center"> <h5><a href="https://www.fokus.fraunhofer.de/en">by Fraunhofer Institute for Open Communication Systems (Fokus) Institute.</a></h5> </td>
-  <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="https://www.fokus.fraunhofer.de/assets/logo-860812875da0f0aa4d5ea48e795aac93b09affdb637eae121b367da604de8737.png"/></td>
+  <td align="center"> <h5><a href="https://www.fokus.fraunhofer.de/en">by Strömungsmechanik und Technische Akustik
+Technische Akustik.</a></h5> </td>
+  <td>  <img align="right"  alt="Mohamed Mesto" width="160px" height='60px' src="https://www.akustik.tu-berlin.de/fileadmin/_processed_/5/51/csm_Stirnwand_87c8439a90.jpg"/></td>
 </tr>
 <tr border=0>
 <td> </td><td  align="center"> <h5> Project Topic </h5> </td><td> </td>
