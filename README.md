@@ -17,7 +17,7 @@ Technische Akustik.</a></h5> </td>
     <td> </td>
 </tr>
   <tr>
-    <td> </td>  <td ></td>
+    <td> </td>  <td align="center"><a href='https://www.linkedin.com/in/gert-herold-72306838/'>Dr. Ing. Gert Herold</a></td>
     <td> </td>
 </tr>
 </table>
