@@ -15,7 +15,7 @@ while pathname < n:
     
 # or other exp
 '''
-for i in range(1000000000):
+for i in range(1000):
     dir = os.path.join('C:/Test', *f"{i:09d}")
     os.makedirs(dir)
 '''
