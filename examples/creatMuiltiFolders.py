@@ -12,3 +12,10 @@ while pathname < n:
         os.makedirs(directory)
     pathname += 1  
     directory = "os.getcwd()" + str(pathname)
+    
+# or other exp
+'''
+for i in range(1000000000):
+    dir = os.path.join('C:/Test', *f"{i:09d}")
+    os.makedirs(dir)
+'''
