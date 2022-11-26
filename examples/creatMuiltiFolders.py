@@ -19,3 +19,9 @@ for i in range(1000000000):
     dir = os.path.join('C:/Test', *f"{i:09d}")
     os.makedirs(dir)
 '''
+####################
+'''
+import os
+for year in range(1922, 2011):
+    os.mkdir("\\{}".format(year))
+    '''
