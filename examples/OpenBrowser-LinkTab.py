@@ -1,4 +1,6 @@
 #open a Browser - Link and a Tab multiple times 
+
+
 import os
 import datetime
 today = datetime.date.today()
@@ -6,8 +8,13 @@ print(today)
 
 n=int(input('insert hte number of the iteration: '))
 T=0
+'''
+we need to install selenium # by using  
+pip install selenium
+or 
+C:\Python39\Scripts\pip.exe install selenium
 
-
+'''
 from selenium import webdriver
 # Define the URL's we will open and a few other variables 
 main_url = 'https://github.com/MohamedMesto' # URL A
