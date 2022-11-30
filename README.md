@@ -32,7 +32,6 @@ Technische Akustik.</a></h5> </td>
 
 by the Department of Engineering Acoustics.
 
-# It took place in 2019 
  
 ![](images/py1.png)
 ![](images/py2.png)
