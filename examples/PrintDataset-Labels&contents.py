@@ -28,3 +28,12 @@ print('*********************indexes**********************')
 for label, content in dataset_test_at.items():
     print(f'label: {label}')
     print(f'content: {content}', sep='\n')
+   
+# OR the next statment to show columns --> Labels
+print('*********************columns.values**********************')
+print(list(dataset_test_at.columns.values))
+
+# OR the next statment to show rows ==> Contents
+
+print('*********************Values**********************')
+print(list(dataset_test_at.values))
