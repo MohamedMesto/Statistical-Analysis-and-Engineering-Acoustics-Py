@@ -8,7 +8,9 @@
 <li> How to creat an n number of Files in the current work directory <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/creatMuiltiFiles.py'>Here</a></li>
  <li> How to open a browser and a link or tab <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/OpenBrowser-LinkTab.py'>Here</a></li>
   <li>working and Navigation between folders and files  </li>
+   <li> How to Print the Dataset Columns (Labels) and Rows (contents) <a https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/PrintDataset-Labels%26contents.py'>Here</a></li>
+  
 </ol>
 </td>
-	
+
 </table>
