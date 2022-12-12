@@ -13,8 +13,8 @@
     <li>How to Extract all Numbers from a String Column in Python Pandas <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoExtractallNumbersfromaStringColumninPyPandas.py'>Here</a></li>
         <li>How to convert dataset Column to list in Python Pandas <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoconvertdatasetColumntolistinPythonPandas.py'>Here</a></li>
          <li>How To Extract a SubString from a String In Column From the Left <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowToExtractaSubStringfromaStringInColumnFromtheLeft.py'>Here</a></li>
-        
-        
+      <li>How To Extract a SubString from a String In Column From the Middle <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examplesExtractaSubStringfromaStringInColumnFromtheMiddle.py'>Here</a></li>  
+         
 </ol>
 </td>
 
