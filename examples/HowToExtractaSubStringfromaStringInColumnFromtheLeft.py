@@ -5,15 +5,6 @@ print('################################## Accent AT ############################
 # add Columns Names to the Dataset: header=None, names=['audio_filepath','text','duration']
 dataset_test_at = pd.read_csv('test_at.txt', header=None, names=['audio_filepath','text','duration'])
 
-'''
-df['Numbers Only'] = df['Numbers and Text'].astype('str').str.extractall('(\d+)').unstack().fillna('').sum(axis=1).astype(int)
-'''
-
-# extract the numeric values of the durations from the third Column and store it in a new column called duration(numeric)
-dataset_test_at['duration(numeric)'] = dataset_test_at['duration'].astype('str').str.extractall('(\d+)').unstack().fillna('').sum(axis=1).astype(int)
-dataset_test_at['duration(numeric)'] =dataset_test_at['duration(numeric)'].div(10)
-# extract the audio files ID values from the first Column and store it in a new column called audio_filepath(numeric)
-#dataset_test_at['audio_filepath(numeric)'] = dataset_test_at['audio_filepath'].astype('str').str.extractall('(\d+)').unstack().fillna('').sum(axis=1).astype(int)
 
 ###########################################################################################
 ### How To Extract a SubString from a String In Column From the Left ==> .str[-12:-4]
