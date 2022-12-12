@@ -10,7 +10,6 @@ dataset_test_at = pd.read_csv('test_at.txt', header=None, names=['audio_filepath
 ### How To Extract a SubString from a String In Column From the Left ==> .str[-12:-4]
 dataset_test_at['audio_filepath(numeric)'] = dataset_test_at['audio_filepath'].str[-12:-4]
 
-###dataset_test_at['audio_filepath(numeric)']=re.search('AAA(.+?)ZZZ', text)
 print(dataset_test_at)
 
  
