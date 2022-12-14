@@ -16,7 +16,10 @@
       <li>How To Extract a SubString from a String In Column From the Middle <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/ExtractaSubStringfromaStringInColumnFromtheMiddle.py'>Here</a></li>  
           <li>Extract a substring with regular expressions: re.search(), re.findall() <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/ExtractSubstringWithRegularExpressions-re.search().py'>Here</a></li> 
           <li>Creating a DataFrame by passing a NumPy array, with a datetime index using date_range() and labeled columns: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/CreatingaDataFrameaDatetimeindexUsingdate_range().py'>Here</a></li> 
-         
+         <li>How to Compare Values between two Pandas DataFrames: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoCompareValuesbetweentwoPandasDataFrames.py'>Here</a></li> 
+        
+       
+
        
 </ol>
 </td>
