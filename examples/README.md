@@ -18,6 +18,7 @@
           <li>Creating a DataFrame by passing a NumPy array, with a datetime index using date_range() and labeled columns: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/CreatingaDataFrameaDatetimeindexUsingdate_range().py'>Here</a></li> 
          <li>How to Compare Values between two Pandas DataFrames: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoCompareValuesbetweentwoPandasDataFrames.py'>Here</a></li> 
   <li>Plot Values Of 2 Columns From Different Datasets: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/PlotValuesOf2ColumnsFromDifferentDatasets.ipynb'>Here</a></li>      
+ <li>How to Compare Values between two Pandas DataFrames using compare-df: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/compare_df.ipynb'>Here</a></li>      
 
        
 </ol>
