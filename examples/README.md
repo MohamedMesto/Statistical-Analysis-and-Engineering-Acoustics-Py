@@ -19,7 +19,7 @@
          <li>How to Compare Values between two Pandas DataFrames: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoCompareValuesbetweentwoPandasDataFrames.py'>Here</a></li> 
   <li>Plot Values Of 2 Columns From Different Datasets: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/PlotValuesOf2ColumnsFromDifferentDatasets.ipynb'>Here</a></li>      
  <li>How to Compare Values between two Pandas DataFrames using compare-df: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/compare_df.ipynb'>Here</a></li>      
-
+ <li>HowtoRunA.pyFileinPythonCmd? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoRunA.pyFileinPythonCmd?'>Here</a></li>
        
 </ol>
 </td>
