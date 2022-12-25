@@ -1,0 +1,133 @@
+
+'437       f09885fa5619a44cb1ef370862598ded49e02c4fc4a7e1...
+4374      0c3c794c7e2fbfc59096ae960f283e5d51bc7a6fe921bf...
+4375      0c3c794c7e2fbfc59096ae960f283e5d51bc7a6fe921bf...
+4376      0c3c794c7e2fbfc59096ae960f283e5d51bc7a6fe921bf...
+4377      0c3c794c7e2fbfc59096ae960f283e5d51bc7a6fe921bf...
+                                ...                        
+509467    3708e63bb062edc3b7f8cecd99111858b7aac0d18532c2...
+509468    3708e63bb062edc3b7f8cecd99111858b7aac0d18532c2...
+509469    3708e63bb062edc3b7f8cecd99111858b7aac0d18532c2...
+509470    3708e63bb062edc3b7f8cecd99111858b7aac0d18532c2...
+509471    3708e63bb062edc3b7f8cecd99111858b7aac0d18532c2...
+Name: client_id, Length: 7671, dtype: object'
+'437       common_voice_de_19935554.mp3
+4374      common_voice_de_17879823.mp3
+4375      common_voice_de_17879824.mp3
+4376      common_voice_de_17879825.mp3
+4377      common_voice_de_17879827.mp3
+                      ...             
+509467    common_voice_de_27339079.mp3
+509468    common_voice_de_27339080.mp3
+509469    common_voice_de_27339081.mp3
+509470    common_voice_de_27339082.mp3
+509471    common_voice_de_27339083.mp3
+Name: path, Length: 7671, dtype: object'
+'437       Das Abgeordnetenhaus kann die Regierung als Ga...
+4374                               Wo bitteschön steht das?
+4375      Bevor du was Neues anbrichst, mache zuerst die...
+4376                                Wir haben den Falschen.
+4377                                           Guten Abend.
+                                ...                        
+509467    Es war eine Herrschaft, die sich im Besitz des...
+509468    Jahre, in denen Europa kleine und mittlere Unt...
+509469                            Das ging gewaltig schief.
+509470    Meine Nein-Stimme gegen diesen Fortschrittsber...
+509471    Ich habe für den Bericht von Herrn Rangel gest...
+Name: sentence, Length: 7671, dtype: object'
+'437       2
+4374      2
+4375      2
+4376      2
+4377      2
+         ..
+509467    2
+509468    2
+509469    2
+509470    2
+509471    3
+Name: up_votes, Length: 7671, dtype: int64'
+'437       0
+4374      1
+4375      0
+4376      0
+4377      0
+         ..
+509467    0
+509468    0
+509469    0
+509470    0
+509471    0
+Name: down_votes, Length: 7671, dtype: int64'
+'437       thirties
+4374      thirties
+4375      thirties
+4376      thirties
+4377      thirties
+            ...   
+509467    thirties
+509468    thirties
+509469    thirties
+509470    thirties
+509471    thirties
+Name: age, Length: 7671, dtype: object'
+'437       male
+4374      male
+4375      male
+4376      male
+4377      male
+          ... 
+509467    male
+509468    male
+509469    male
+509470    male
+509471    male
+Name: gender, Length: 7671, dtype: object'
+'437       Österreichisches Deutsch
+4374      Österreichisches Deutsch
+4375      Österreichisches Deutsch
+4376      Österreichisches Deutsch
+4377      Österreichisches Deutsch
+                    ...           
+509467    Österreichisches Deutsch
+509468    Österreichisches Deutsch
+509469    Österreichisches Deutsch
+509470    Österreichisches Deutsch
+509471    Österreichisches Deutsch
+Name: accents, Length: 7671, dtype: object'
+'437       de
+4374      de
+4375      de
+4376      de
+4377      de
+          ..
+509467    de
+509468    de
+509469    de
+509470    de
+509471    de
+Name: locale, Length: 7671, dtype: object'
+'437       NaN
+4374      NaN
+4375      NaN
+4376      NaN
+4377      NaN
+         ... 
+509467    NaN
+509468    NaN
+509469    NaN
+509470    NaN
+509471    NaN
+Name: segment, Length: 7671, dtype: object'
+'437       19935554
+4374      17879823
+4375      17879824
+4376      17879825
+4377      17879827
+            ...   
+509467    27339079
+509468    27339080
+509469    27339081
+509470    27339082
+509471    27339083
+Name: audio_filepath_numeric, Length: 7671, dtype: int64'
