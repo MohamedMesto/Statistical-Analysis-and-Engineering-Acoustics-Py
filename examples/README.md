@@ -23,6 +23,8 @@
  <li>How to Read Multiple files usinga For Loop? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/ReadMultiplefilesusingaForLoop.py'>Here</a></li>
  <li>How to Check If a DataFrame is Empty? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/CheckIfaDataFrameisEmpty.py'>Here</a></li>
        
+ <li>Open Jason File With Encoding? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/OpenJasonFileWithEncoding_py.ipynb'>Here</a></li>       
+
 </ol>
 </td>
 
