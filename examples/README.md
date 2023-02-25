@@ -25,8 +25,8 @@
  <li>Open Jason File With Encoding? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/OpenJasonFileWithEncoding_py.ipynb'>Here</a></li>       
  <li>Multiple For Loops? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/MultipleForLoops.py'>Here</a></li>       
 
-<li>Open Jason File With Encoding? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/splitStrMultipleTimesAtOnce.ipynb'>Here</a></li>       
- <li>Multiple For Loops? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/splitStrMultipleTimesAtOnce.ipynb'>Here</a></li>   
+<li>#  How to split a String Multiple Times At Once? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/splitStrMultipleTimesAtOnce.py'>Here</a></li>       
+ <li>Multiple For Loops? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/splitStrMultipleTimesAtOnce.py'>Here</a></li>   
 
 
 
