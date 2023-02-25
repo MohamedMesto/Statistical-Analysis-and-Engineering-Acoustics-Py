@@ -21,11 +21,12 @@
  <li>How to Compare Values between two Pandas DataFrames using compare-df: <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/compare_df.ipynb'>Here</a></li>      
  <li>How to run a.py file in python cmd? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/HowtoRunA.pyFileinPythonCmd%3F.py'>Here</a></li>
  <li>How to Read Multiple files usinga For Loop? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/ReadMultiplefilesusingaForLoop.py'>Here</a></li>
- <li>How to Check If a DataFrame is Empty? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/CheckIfaDataFrameisEmpty.py'>Here</a></li>
-       
+ <li>How to Check If a DataFrame is Empty? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/CheckIfaDataFrameisEmpty.py'>Here</a></li>  
  <li>Open Jason File With Encoding? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/OpenJasonFileWithEncoding_py.ipynb'>Here</a></li>       
  <li>Multiple For Loops? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/MultipleForLoops.py'>Here</a></li>       
 
+<li>Open Jason File With Encoding? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/splitStrMultipleTimesAtOnce.ipynb'>Here</a></li>       
+ <li>Multiple For Loops? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/splitStrMultipleTimesAtOnce.ipynb'>Here</a></li>   
 
 
 
