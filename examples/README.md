@@ -34,7 +34,7 @@
 
  <li>disply Index Of a Value From a Tsv File? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/displyIndexOfaValueFromTsvFile.py'>Here</a></li>   
 
- <li>disply Index Of a Value From a Tsv File? <a href='read_äöüß_letters.py'>Here</a></li>   
+ <li>How to read ä ö ü ß letters? <a href='read_äöüß_letters.py'>Here</a></li>   
 
 
 
