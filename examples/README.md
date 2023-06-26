@@ -36,7 +36,7 @@
 
  <li>How to read ä ö ü ß letters? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/read_%C3%A4%C3%B6%C3%BC%C3%9F_letters.py'>Here</a></li>   
 
- <li>How to check colab? <a href='read_äöüß_letters.py'>Here</a></li>   
+ <li>How to check colab? <a href='https://github.com/MohamedMesto/Statistical-Analysis-and-Engineering-Acoustics-Py/blob/main/examples/check_colab.py'>Here</a></li>   
 check_colab.py
 
 </ol>
